@@ -1,2 +1,2 @@
 # Xredirect
-Tampermonkey script
+Redirects x and twitter links to xcancel. 
